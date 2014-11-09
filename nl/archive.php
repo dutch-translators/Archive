@@ -4,6 +4,7 @@
 * Archive extension for the phpBB Forum Software package [British English]
 *
 * @copyright (c) 2014 o0johntam0o
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
